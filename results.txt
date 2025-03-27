@@ -1,2 +1,2 @@
 Model               	Val PSNR  	Val Time [ms] 	Params [M]	FLOPs [G] 
-00_MambaIRv2LightModel	30.82     	540.79        	0.790     	700.93    
+00_MambaIRv2LightModel	30.81     	519.29        	0.790     	700.93    
